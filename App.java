@@ -1,7 +1,7 @@
 //package test.MavenProject;
 
 /**
- * Hello world!
+ * Hello world1234!
  *
  */
 public class App 
