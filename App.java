@@ -1,4 +1,4 @@
-package test.MavenProject;
+//package test.MavenProject;
 
 /**
  * Hello world!
